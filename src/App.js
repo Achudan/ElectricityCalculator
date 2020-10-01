@@ -11,7 +11,7 @@ function App() {
         <NavBar />
         <Cards title="Unit Calculator" content="Do you wanna calculate units from power?" respLink="unitcalc"/>
         <hr></hr>
-        <Cards title="Bill Calculator" content="Do you wanna calculate TNEB bill from Units consumed?" respLink="billcalc"/>
+        <Cards title="Bills Calculator" content="Do you wanna calculate TNEB bill from Units consumed?" respLink="billcalc"/>
       </header>
     </div>
   );
